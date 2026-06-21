@@ -13,5 +13,6 @@ public class Main {
                     "DB接続\n" + //
                     "バリデーション\n" + //
                     "エラーメッセージ");
+        System.out.println("addで整理、意味のある単位でcommit、数コミットまとめてpush、機能完成時PR");
     }
 }
