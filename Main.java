@@ -13,6 +13,6 @@ public class Main {
                     "DB接続\n" + //
                     "バリデーション\n" + //
                     "エラーメッセージ");
-        System.out.println("addで整理、意味のある単位でcommit、数コミットまとめてpush、機能完成時PR");
+        System.out.println("addで整理、意味のある単位でcommit、数コミットまとめてpush、機能完成時PR、作業中誰かがMainブランチ変更した場合、mainに取り込みサブブランチに反映（mergebranch）");
     }
 }
